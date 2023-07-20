@@ -2,12 +2,11 @@ body{
     margin:0;
     box-sizing: border-box;
     font-family: "Montserrat" , sans-serif;
-    background-color: #f1d8d8;
+    background-color: white;
 }
 .container{
     background:url(background.jpg);
     background-size: cover;
-    background:none;
     box-shadow: 0 0 20px rgba(0,0,0,.2);
     margin-top: 50px;
     padding-top: 12px;
