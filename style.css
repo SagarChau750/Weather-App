@@ -5,7 +5,7 @@ body{
     background-color: #f1d8d8;
 }
 .container{
-    background:url(/background.jpg);
+    background:url(background.jpg);
     background-size: cover;
     box-shadow: 0 0 20px rgba(0,0,0,.2);
     margin-top: 50px;
