@@ -1,5 +1,5 @@
 ## Weather App
- Demo - 
+ Demo - https://sagarchau750.github.io/Weather-App/
 # Overview
   This is a simple weather application built using HTML, CSS, and JavaScript. The app allows users to enter a city name and receive current weather information including temperature, weather conditions, and more.
 
